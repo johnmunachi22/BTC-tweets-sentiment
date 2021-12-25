@@ -1,6 +1,6 @@
 # BTC-tweets-sentiment: Project Overview 
 * Using the Tweepy api, i collected tweets that contain the keyword "Bitcoin" from twitter.
-* After cleaning the data, i engineered new features.
+* After cleaning the data, i engineered new features. e.g is_lang_eng(is the tweet in english), and postive and negative sentiment scores.
 * I then applied a pretrained sentiment model called "vader" from the NLTK tool kit.
 
 ## Code and Resources Used 
